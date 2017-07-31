@@ -1,0 +1,57 @@
+.zagl{
+	font: bold 20pt times new roman;
+	color:#006600;
+	text-align: center
+}
+
+.kb{
+	color: #007700;
+}
+
+.list{
+	padding: 1px 10px 1px 10px;
+	display: none;
+	background-color: transparent;
+	color: #00cc00;
+}
+
+div.kb {
+	position: relative;
+	z-index: 5;
+}
+
+/*
+.logo {
+	display: flex;
+	position: relative;
+	top: 0px;
+	left: 10px;
+	background-color: transparent;
+	height: 40px;
+	z-index: 2;
+}
+*/
+div.kb > img.small{
+	height: 30px;
+	display: none;
+}
+
+.str {
+	font: bold italic 1.5em Arial;
+	text-align: center
+}
+
+.kom1 {
+	color: blue;
+	font: bold 1.5em times new roman;
+	text-align: center;
+}
+
+
+h3:hover{
+	color: #000088;
+}
+h4:hover{
+	color: #0000dd;
+}
+
