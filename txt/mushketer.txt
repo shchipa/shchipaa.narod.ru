@@ -1,0 +1,11 @@
+<p class="str">Мушкетёр. Франция XVII век.</p>
+        	<p class="kom1">Масштаб 1:16 "MiniArt"</p>
+			<p class="kom1"><img src="foto/musketer/musketer.jpg" border="0" title="Мушкетёр. Франция XVII век" alt="Мушкетёр. Франция XVII век"></p></br>
+
+
+       	   		<p class="kom1"><img src="foto/musketer/01.jpg" border="0" title="Мушкетёр. Франция XVII век" alt="Мушкетёр. Франция XVII век"></p></br>
+       	   		<p class="kom1"><img src="foto/musketer/02.jpg" border="0" title="Мушкетёр. Франция XVII век" alt="Мушкетёр. Франция XVII век"></p></br>
+       	   		<p class="kom1"><img src="foto/musketer/03.jpg" border="0" title="Мушкетёр. Франция XVII век" alt="Мушкетёр. Франция XVII век"></p></br>
+       	   		<p class="kom1"><img src="foto/musketer/04.jpg" border="0" title="Мушкетёр. Франция XVII век" alt="Мушкетёр. Франция XVII век"></p></br>
+       	   		<p class="kom1"><img src="foto/musketer/05.jpg" border="0" title="Мушкетёр. Франция XVII век" alt="Мушкетёр. Франция XVII век"></p></br>
+       	   		<p class="kom1"><img src="foto/musketer/06.jpg" border="0" title="Мушкетёр. Франция XVII век" alt="Мушкетёр. Франция XVII век"></p></br>
